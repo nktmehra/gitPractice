@@ -1,3 +1,2 @@
 Hi This is Doc 2 of first branch
-checking stash command
-
+checking conflict
